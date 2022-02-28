@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**TakaKeiji/TakaKeiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer since 2010, but learning, coding and experimenting with software since 1998!
 
-Here are some ideas to get you started:
+Currently working on PWAs and mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakaKeiji&layout=compact"/>
+
+## Languages i have been working with
+
+- ✅ C / C++
+- ✅ PHP
+- ✅ Objetive-C / Swift
+- ✅ C#
+- ✅ Java
+- ✅ JavaScript / TypeScript
+
+## How to get in touch
+
+- Twitter [@TakaKeijiiDev](https://twitter.com/takakeijiidev)
+- Email [Send a message from here](mailto:takayama.keiji@outlook.com)
+
+## Visit counter
+
+![Visited By](https://count.getloli.com/get/@TakaKeiji?theme=gelbooru)
