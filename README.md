@@ -14,6 +14,7 @@ Currently working on PWAs and mobile development.
 - ✅ C#
 - ✅ Java
 - ✅ JavaScript / TypeScript
+- ✅ Elixir
 
 ## How to get in touch
 
