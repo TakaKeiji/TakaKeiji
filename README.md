@@ -18,7 +18,6 @@ Currently working on PWAs and mobile development.
 
 ## How to get in touch
 
-- Twitter [@TakaKeijiiDev](https://twitter.com/takakeijiidev)
 - Email [Send a message from here](mailto:takayama.keiji@outlook.com)
 
 ## Visit counter
